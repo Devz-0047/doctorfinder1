@@ -189,7 +189,7 @@ function ProfileDetails() {
                 </p>{" "}
               </div>
             </div>
-            <p className="text-lg text-gray-600">25 Dec 2023</p>
+            <p className="text-lg text-gray-600">25 December 2023</p>
           </div>
           <div className="mt-5">
             <div className="text-lg text-[#F79624] flex items-center gap-2 mt-2">
